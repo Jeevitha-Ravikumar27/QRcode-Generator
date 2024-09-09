@@ -6,3 +6,11 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Created a basic React project :
+1. User card
+   that shows online or offline of a person's status
+
+2.QR code Generator:
+   that generates the QR code for the given link with given size
+   
