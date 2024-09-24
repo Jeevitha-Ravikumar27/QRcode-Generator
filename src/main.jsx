@@ -4,12 +4,12 @@ import { createRoot } from 'react-dom/client'
 //import './index.css'
 import './QrCode.css'
 import { QrCode } from './QrCode'
-import { UserCard } from './UserCard.jsx'
+//import { UserCard } from './UserCard.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
    {/* <App /> */}
    <UserCard/> 
-    { <QrCode/> }
+     <QrCode/> 
   </StrictMode>,
 )
