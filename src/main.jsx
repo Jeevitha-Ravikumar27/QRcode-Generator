@@ -9,7 +9,7 @@ import { QrCode } from './QrCode'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
    {/* <App /> */}
-   <UserCard/> 
+    {/*  <UserCard/> */} 
      <QrCode/> 
   </StrictMode>,
 )
