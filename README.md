@@ -13,4 +13,5 @@ Created a basic React project :
 
 2.QR code Generator:
    that generates the QR code for the given link with given size
+   https://reactprojbasic.vercel.app/
    
